@@ -3,6 +3,7 @@ Investigacion.txt
 dataset_amazon/
 dataset_amazon_reviews_lemma.json
 dataset_amazon_reviews_stem.json
+Borrador_Proyecto_3.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
