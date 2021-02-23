@@ -4,6 +4,7 @@ dataset_amazon/
 dataset_amazon_reviews_lemma.json
 dataset_amazon_reviews_stem.json
 Borrador_Proyecto_3.ipynb
+Comparacion_lemma_stem_v1.pdf
 *.docx
 ~*
 
