@@ -4,7 +4,8 @@ dataset_amazon/
 dataset_amazon_reviews_lemma.json
 dataset_amazon_reviews_stem.json
 Borrador_Proyecto_3.ipynb
-Comparacion_lemma_stem.docx
+*.docx
+~*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
