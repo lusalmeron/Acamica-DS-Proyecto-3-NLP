@@ -1,6 +1,5 @@
-# ACAMICA DATA SCIENCE - Proyecto 3
-## Natural Language Processing (NLP)
-Proyecto n° 3 para la Carrera de **Ciencia de Datos** en *Acamica* sobre **Aplicaciones Actuales**.
+# PROYECTO 3 - Natural Language Processing (NLP)
+Proyecto n° 3 sobre **Aplicaciones Actuales** para la **Carrera de Ciencia de Datos en Acamica** .
 
 ### Objetivo
 Predecir la valoración (1-5 estrellas) que un usuario dará a un producto comprado en Amazon a partir de la reseña que deja.
